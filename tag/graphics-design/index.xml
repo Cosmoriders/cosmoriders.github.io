@@ -5,12 +5,20 @@
     <link>https://example.com/tag/graphics-design/</link>
       <atom:link href="https://example.com/tag/graphics-design/index.xml" rel="self" type="application/rss+xml" />
     <description>Graphics Design</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Graphics Design</title>
       <link>https://example.com/tag/graphics-design/</link>
     </image>
+    
+    <item>
+      <title>Borraccia</title>
+      <link>https://example.com/portfolio-full/borraccia/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/portfolio-full/borraccia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dashboard e livrea per vettura di Formula SAE</title>

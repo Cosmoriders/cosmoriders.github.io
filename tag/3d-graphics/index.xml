@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Media | Hugo Portfolio Theme</title>
-    <link>https://example.com/portfolio-full/</link>
-      <atom:link href="https://example.com/portfolio-full/index.xml" rel="self" type="application/rss+xml" />
-    <description>Media</description>
+    <title>3d graphics | Hugo Portfolio Theme</title>
+    <link>https://example.com/tag/3d-graphics/</link>
+      <atom:link href="https://example.com/tag/3d-graphics/index.xml" rel="self" type="application/rss+xml" />
+    <description>3d graphics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Media</title>
-      <link>https://example.com/portfolio-full/</link>
+      <title>3d graphics</title>
+      <link>https://example.com/tag/3d-graphics/</link>
     </image>
-    
-    <item>
-      <title>Borraccia</title>
-      <link>https://example.com/portfolio-full/borraccia/</link>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/portfolio-full/borraccia/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Palazzi</title>
