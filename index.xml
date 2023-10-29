@@ -40,25 +40,9 @@
     
     <item>
       <title>Cartoon Face Generator</title>
-      <link>https://example.com/case-history/cartoon/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/case-history/cartoon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cartoon Face Generator</title>
       <link>https://example.com/project/cartoon/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/cartoon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cosmetics Semantic Search</title>
-      <link>https://example.com/case-history/cosmetics/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/case-history/cosmetics/</guid>
       <description></description>
     </item>
     
@@ -71,11 +55,188 @@
     </item>
     
     <item>
-      <title>Recommendation Systems</title>
-      <link>https://example.com/case-history/recommendation/</link>
+      <title>Dashboard e livrea per vettura di Formula SAE</title>
+      <link>https://example.com/case-history/scuderia/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/case-history/recommendation/</guid>
-      <description></description>
+      <guid>https://example.com/case-history/scuderia/</guid>
+      <description>&lt;p&gt;Tra le attività svolte come membro di un team universitario di Formula SAE, nell’ambito della grafica, rientrano:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Il progetto di design per la dashboard della vettura da corsa.&lt;/li&gt;
+&lt;li&gt;Il concept della livrea della vettura, cercando di mitigare i diversi gusti del team.
+Per la dashboard è stato realizzato un progetto grafico. Nel corso del lavoro è stata assegnata una priorità alla leggibilità delle diverse informazioni mostrate sullo schermo, in modo da far risaltare le più rilevanti al pilota. Si è cercato, inoltre, di agevolare la velocità di lettura utilizzando in modo strategico colori e grandezze degli elementi visualizzati.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-progetto-grafico-della-dashboard&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /case-history/scuderia/img/hud_hue970041fee9c6faa1e13946f960713de_60821_2b29072cec8b5cf949a40050e29bc64e.webp 400w,
+               /case-history/scuderia/img/hud_hue970041fee9c6faa1e13946f960713de_60821_e5c3d9c627c8f3e893c32a39165e7d28.webp 760w,
+               /case-history/scuderia/img/hud_hue970041fee9c6faa1e13946f960713de_60821_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/case-history/scuderia/img/hud_hue970041fee9c6faa1e13946f960713de_60821_2b29072cec8b5cf949a40050e29bc64e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;438&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Progetto grafico della dashboard
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;L’implementazione del primo progetto grafico nel dispositivo elettronico di destinazione ha portato a successive modifiche pratiche ed evoluzioni da parte del team di ingegneri (Paolo Melissari e Andrea Crescenzi) che vi hanno lavorato, ai fini delle esigenze di guida e di fattibilità.&lt;/p&gt;
+&lt;p&gt;Per lo studio della livrea è stato utilizzato il modello 3D realizzato dal team di Formula SAE. Sono stati ripresi i colori del team (verde, nero e bianco con l’aggiunta del rosso) e si è cercato di mantenere un aspetto il più essenziale possibile.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-livrea-finale-della-vettura-scuderiatorvergata-su-instagram&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /case-history/scuderia/img/livrea2_hu1011fbd6fd5e4cc34dfb560e916b5135_183703_11dc98cf676e6f2357bb7537d3526c5a.webp 400w,
+               /case-history/scuderia/img/livrea2_hu1011fbd6fd5e4cc34dfb560e916b5135_183703_de9a10be622cebe13ce28c62f1823388.webp 760w,
+               /case-history/scuderia/img/livrea2_hu1011fbd6fd5e4cc34dfb560e916b5135_183703_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/case-history/scuderia/img/livrea2_hu1011fbd6fd5e4cc34dfb560e916b5135_183703_11dc98cf676e6f2357bb7537d3526c5a.webp&#34;
+               width=&#34;608&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Livrea finale della vettura (@scuderiatorvergata su Instagram).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marvel Heroes</title>
+      <link>https://example.com/case-history/marvel-heroes/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/case-history/marvel-heroes/</guid>
+      <description>&lt;p&gt;L’applicazione sui fumetti Marvel nasce come progetto universitario di Ingegneria Informatica. I co-autori di questo lavoro sono Adrian Minut, Pierciro Caliandro, Gian Marco Falcone e Francesco Fanali.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-pagina-iniziale-e-dettaglio-di-un-eroe&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /case-history/marvel-heroes/img/screenshot1_hu1def48b21c0e78dff6f962001c6d1889_848990_4243fa1f57f42819a3e24b1495961fc4.webp 400w,
+               /case-history/marvel-heroes/img/screenshot1_hu1def48b21c0e78dff6f962001c6d1889_848990_e80c5d0024fe6f1c9d81c2a6d63de44c.webp 760w,
+               /case-history/marvel-heroes/img/screenshot1_hu1def48b21c0e78dff6f962001c6d1889_848990_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/case-history/marvel-heroes/img/screenshot1_hu1def48b21c0e78dff6f962001c6d1889_848990_4243fa1f57f42819a3e24b1495961fc4.webp&#34;
+               width=&#34;351&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Pagina iniziale e dettaglio di un eroe
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;applicazione si connette al sito ufficiale di Marvel e mostra all&amp;rsquo;utente informazioni su fumetti, autori, saghe ed eventi. Il lavoro svolto è stato prevalentemente di frontend, volendo fornire all&amp;rsquo;utente un&amp;rsquo;interfaccia grafica gradevole, intuitiva e curata nelle animazioni.
+In particolare, sono state implementate le seguenti funzionalità:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tema dell&amp;rsquo;interfaccia grafica;&lt;/li&gt;
+&lt;li&gt;Design dell&amp;rsquo;applicazione basato su tre pagine principali;&lt;/li&gt;
+&lt;li&gt;Modalità di visualizzazione dei singoli elementi nel dettaglio;&lt;/li&gt;
+&lt;li&gt;Animazioni ed effetti di transizione&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-pagine-di-dettaglio-di-un-fumetto-e-di-una-serie&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /case-history/marvel-heroes/img/screenshot2_hube12ad4eb3a371c1e3d3918a36ea9515_1020241_5af2d627c4a72c89c77fb5d9c3f2d045.webp 400w,
+               /case-history/marvel-heroes/img/screenshot2_hube12ad4eb3a371c1e3d3918a36ea9515_1020241_7885b185e71ddc8ea45dcd05771fd9dc.webp 760w,
+               /case-history/marvel-heroes/img/screenshot2_hube12ad4eb3a371c1e3d3918a36ea9515_1020241_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/case-history/marvel-heroes/img/screenshot2_hube12ad4eb3a371c1e3d3918a36ea9515_1020241_5af2d627c4a72c89c77fb5d9c3f2d045.webp&#34;
+               width=&#34;351&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Pagine di dettaglio di un fumetto e di una serie
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In aggiunta, è stato implementato anche un piccolo database tramite Room per poter memorizzare i preferiti.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-schermate-di-ricerca-e-di-visualizzazione-dei-preferiti&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /case-history/marvel-heroes/img/screenshot3_hu84410ff87b65257cd5612474bebc5b8e_736330_308350308b3eeb303b24b7bc1052f2db.webp 400w,
+               /case-history/marvel-heroes/img/screenshot3_hu84410ff87b65257cd5612474bebc5b8e_736330_97e42fa604cf94e097d5721a54f3f0f2.webp 760w,
+               /case-history/marvel-heroes/img/screenshot3_hu84410ff87b65257cd5612474bebc5b8e_736330_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://example.com/case-history/marvel-heroes/img/screenshot3_hu84410ff87b65257cd5612474bebc5b8e_736330_308350308b3eeb303b24b7bc1052f2db.webp&#34;
+               width=&#34;351&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Schermate di ricerca e di visualizzazione dei preferiti.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Per approfondimenti, è disponibile il &lt;a href=&#34;https://github.com/Tiburtina-Valley/MarvelHeroes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository GitHub&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>

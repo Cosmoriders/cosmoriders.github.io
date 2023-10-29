@@ -1,92 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Case-histories | Hugo Portfolio Theme</title>
-    <link>https://example.com/case-history/</link>
-      <atom:link href="https://example.com/case-history/index.xml" rel="self" type="application/rss+xml" />
-    <description>Case-histories</description>
+    <title>App Development | Hugo Portfolio Theme</title>
+    <link>https://example.com/tag/app-development/</link>
+      <atom:link href="https://example.com/tag/app-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>App Development</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Case-histories</title>
-      <link>https://example.com/case-history/</link>
+      <title>App Development</title>
+      <link>https://example.com/tag/app-development/</link>
     </image>
-    
-    <item>
-      <title>Dashboard e livrea per vettura di Formula SAE</title>
-      <link>https://example.com/case-history/scuderia/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/case-history/scuderia/</guid>
-      <description>&lt;p&gt;Tra le attività svolte come membro di un team universitario di Formula SAE, nell’ambito della grafica, rientrano:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Il progetto di design per la dashboard della vettura da corsa.&lt;/li&gt;
-&lt;li&gt;Il concept della livrea della vettura, cercando di mitigare i diversi gusti del team.
-Per la dashboard è stato realizzato un progetto grafico. Nel corso del lavoro è stata assegnata una priorità alla leggibilità delle diverse informazioni mostrate sullo schermo, in modo da far risaltare le più rilevanti al pilota. Si è cercato, inoltre, di agevolare la velocità di lettura utilizzando in modo strategico colori e grandezze degli elementi visualizzati.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-progetto-grafico-della-dashboard&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /case-history/scuderia/img/hud_hue970041fee9c6faa1e13946f960713de_60821_2b29072cec8b5cf949a40050e29bc64e.webp 400w,
-               /case-history/scuderia/img/hud_hue970041fee9c6faa1e13946f960713de_60821_e5c3d9c627c8f3e893c32a39165e7d28.webp 760w,
-               /case-history/scuderia/img/hud_hue970041fee9c6faa1e13946f960713de_60821_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/case-history/scuderia/img/hud_hue970041fee9c6faa1e13946f960713de_60821_2b29072cec8b5cf949a40050e29bc64e.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;438&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Progetto grafico della dashboard
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;L’implementazione del primo progetto grafico nel dispositivo elettronico di destinazione ha portato a successive modifiche pratiche ed evoluzioni da parte del team di ingegneri (Paolo Melissari e Andrea Crescenzi) che vi hanno lavorato, ai fini delle esigenze di guida e di fattibilità.&lt;/p&gt;
-&lt;p&gt;Per lo studio della livrea è stato utilizzato il modello 3D realizzato dal team di Formula SAE. Sono stati ripresi i colori del team (verde, nero e bianco con l’aggiunta del rosso) e si è cercato di mantenere un aspetto il più essenziale possibile.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-livrea-finale-della-vettura-scuderiatorvergata-su-instagram&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /case-history/scuderia/img/livrea2_hu1011fbd6fd5e4cc34dfb560e916b5135_183703_11dc98cf676e6f2357bb7537d3526c5a.webp 400w,
-               /case-history/scuderia/img/livrea2_hu1011fbd6fd5e4cc34dfb560e916b5135_183703_de9a10be622cebe13ce28c62f1823388.webp 760w,
-               /case-history/scuderia/img/livrea2_hu1011fbd6fd5e4cc34dfb560e916b5135_183703_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/case-history/scuderia/img/livrea2_hu1011fbd6fd5e4cc34dfb560e916b5135_183703_11dc98cf676e6f2357bb7537d3526c5a.webp&#34;
-               width=&#34;608&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Livrea finale della vettura (@scuderiatorvergata su Instagram).
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Marvel Heroes</title>
